@@ -1,0 +1,5 @@
+Here, i will be deploying this project of ecommerce website on AWS EC2 instances by using Github and Docker.
+First of all, I cloned the project from my own github repository ,  could have done with someone else's repo as well but its always important to follow the steps and download prerequisites if any.
+Next step would be to make a branch , as i dont want to directly work with main branch
+first  write git checkout -b branch_name and then git add .
+then, git commit 
